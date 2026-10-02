@@ -1,0 +1,6 @@
+{
+  "name": "Campus Events",
+  "description": "Premium college event discovery and verification platform with real-time updates, club highlights, and on-duty tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
